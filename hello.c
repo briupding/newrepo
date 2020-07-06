@@ -9,5 +9,7 @@ int main(int argc, char *argv[])
 	
 	printf("newrepo2\n");
 	
+	printf("newrepo2 modify 2\n");
+	
 	return 0;
 }
