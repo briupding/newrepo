@@ -9,7 +9,11 @@ int main(int argc, char *argv[])
 	
 	printf("newrepo2\n");
 	
+
 	printf("newrepo2 modify 2\n");
+
+	printf("user1 add modify 1\n");
+
 	
 	return 0;
 }
